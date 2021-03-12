@@ -1,0 +1,16 @@
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\obj\Debug\net5.0\example1.csprojAssemblyReference.cache
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\obj\Debug\net5.0\example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\obj\Debug\net5.0\example1.AssemblyInfoInputs.cache
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\obj\Debug\net5.0\example1.AssemblyInfo.cs
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\obj\Debug\net5.0\example1.csproj.CoreCompileInputs.cache
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\bin\Debug\net5.0\example1.exe
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\bin\Debug\net5.0\example1.deps.json
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\bin\Debug\net5.0\example1.runtimeconfig.json
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\bin\Debug\net5.0\example1.runtimeconfig.dev.json
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\bin\Debug\net5.0\example1.dll
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\bin\Debug\net5.0\ref\example1.dll
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\bin\Debug\net5.0\example1.pdb
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\obj\Debug\net5.0\example1.dll
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\obj\Debug\net5.0\ref\example1.dll
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\obj\Debug\net5.0\example1.pdb
+C:\Users\Prueba\Desktop\POO\theendofcode\example1\obj\Debug\net5.0\example1.genruntimeconfig.cache
