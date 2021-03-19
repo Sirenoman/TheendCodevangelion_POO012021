@@ -1,0 +1,16 @@
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\bin\Debug\net5.0\optativeStrct.exe
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\bin\Debug\net5.0\optativeStrct.deps.json
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\bin\Debug\net5.0\optativeStrct.runtimeconfig.json
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\bin\Debug\net5.0\optativeStrct.runtimeconfig.dev.json
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\bin\Debug\net5.0\optativeStrct.dll
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\bin\Debug\net5.0\ref\optativeStrct.dll
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\bin\Debug\net5.0\optativeStrct.pdb
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\obj\Debug\net5.0\optativeStrct.csprojAssemblyReference.cache
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\obj\Debug\net5.0\optativeStrct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\obj\Debug\net5.0\optativeStrct.AssemblyInfoInputs.cache
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\obj\Debug\net5.0\optativeStrct.AssemblyInfo.cs
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\obj\Debug\net5.0\optativeStrct.csproj.CoreCompileInputs.cache
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\obj\Debug\net5.0\optativeStrct.dll
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\obj\Debug\net5.0\ref\optativeStrct.dll
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\obj\Debug\net5.0\optativeStrct.pdb
+C:\Users\Prueba\Desktop\POO\Helloworld2\optativeStrct\obj\Debug\net5.0\optativeStrct.genruntimeconfig.cache

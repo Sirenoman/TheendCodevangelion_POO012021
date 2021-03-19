@@ -1,0 +1,16 @@
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\obj\Debug\net5.0\cicloAnidado.csprojAssemblyReference.cache
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\obj\Debug\net5.0\cicloAnidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\obj\Debug\net5.0\cicloAnidado.AssemblyInfoInputs.cache
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\obj\Debug\net5.0\cicloAnidado.AssemblyInfo.cs
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\obj\Debug\net5.0\cicloAnidado.csproj.CoreCompileInputs.cache
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\bin\Debug\net5.0\cicloAnidado.exe
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\bin\Debug\net5.0\cicloAnidado.deps.json
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\bin\Debug\net5.0\cicloAnidado.runtimeconfig.json
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\bin\Debug\net5.0\cicloAnidado.runtimeconfig.dev.json
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\bin\Debug\net5.0\cicloAnidado.dll
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\bin\Debug\net5.0\ref\cicloAnidado.dll
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\bin\Debug\net5.0\cicloAnidado.pdb
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\obj\Debug\net5.0\cicloAnidado.dll
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\obj\Debug\net5.0\ref\cicloAnidado.dll
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\obj\Debug\net5.0\cicloAnidado.pdb
+C:\Users\Prueba\Desktop\POO\Helloworld2\cicloAnidado\obj\Debug\net5.0\cicloAnidado.genruntimeconfig.cache
