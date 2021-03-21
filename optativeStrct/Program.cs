@@ -11,34 +11,35 @@ namespace optativeStrct
         static void Main(string[] args)
         {
             Date birthday;
-            Console.WriteLine("Favor ingresar tu fecha de cumpleaños (en numeracion)");
-            Console.Write("Año: ");
+            //Request the data
+            Console.WriteLine("Please enter your birthday date (a integer)");
+            Console.Write("Year: ");
             birthday.year = ItRealYear();
-            Console.Write("Mes: ");
+            Console.Write("Month: ");
             birthday.month = ItRealMonth();
-            Console.Write("Dia: ");
+            Console.Write("Day: ");
             birthday.day= ItRealDay(birthday.month);
 
             Date oneDate;
-            Console.WriteLine("Favor ingresar la fecha de ahora (en numeracion)");
-            Console.Write("Año: ");
+            Console.WriteLine("Please enter your birthday date (a integer)");
+            Console.Write("Year: ");
             oneDate.year = ItRealYear();
-            Console.Write("Mes: ");
+            Console.Write("Month: ");
             oneDate.month = ItRealMonth();
-            Console.Write("Dia: ");
+            Console.Write("Day: ");
             oneDate.day= ItRealDay(oneDate.month);
 
             if(birthday.day == oneDate.day && birthday.month == oneDate.month)
             {
-                Console.WriteLine("¡FELICIDADES! Hoy es tu dia, celebralo a lo grande");
+                Console.WriteLine("CONGRATULATIONS! Today is your day, celebrate it with your family");
             }
             else
             {
-                Console.WriteLine("Hoy no es tu cumpleaños :c");
+                Console.WriteLine("Today is not your birthday");
             }
         }
 
-        // metodos para validar el año, el mes y el dia correctamente acorde al calendario.
+        // Methods to validate the year, month and day correctly according to the calendar.
         static int ItRealYear()
         {
             bool flag = true;
@@ -58,7 +59,7 @@ namespace optativeStrct
             return y;
                 
         }
-        // evaluar mes
+        // Methods to validate the month
         static int ItRealMonth()
         {
             bool flag = true;
@@ -77,7 +78,7 @@ namespace optativeStrct
             }
             return m;
         }
-        // evaluar dia
+        // Methods to validate the day
         static int ItRealDay(int mth)
         {
             bool flag = true;
