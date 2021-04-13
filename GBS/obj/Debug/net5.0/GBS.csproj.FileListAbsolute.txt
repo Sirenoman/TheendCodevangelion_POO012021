@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\bin\Debug\net5.0\GBS.exe
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\bin\Debug\net5.0\GBS.deps.json
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\bin\Debug\net5.0\GBS.runtimeconfig.json
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\bin\Debug\net5.0\GBS.runtimeconfig.dev.json
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\bin\Debug\net5.0\GBS.dll
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\bin\Debug\net5.0\ref\GBS.dll
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\bin\Debug\net5.0\GBS.pdb
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\obj\Debug\net5.0\GBS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\obj\Debug\net5.0\GBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\obj\Debug\net5.0\GBS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\obj\Debug\net5.0\GBS.AssemblyInfo.cs
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\obj\Debug\net5.0\GBS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\obj\Debug\net5.0\GBS.dll
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\obj\Debug\net5.0\ref\GBS.dll
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\obj\Debug\net5.0\GBS.pdb
+C:\Users\user\Desktop\POO\LABO_POO\TareaLabo3\lab03-Sirenoman\GBS\obj\Debug\net5.0\GBS.genruntimeconfig.cache

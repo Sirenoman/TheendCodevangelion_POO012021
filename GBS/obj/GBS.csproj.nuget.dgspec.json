@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prueba\\Desktop\\POO\\theendofcode\\optativeStrct\\optativeStrct.csproj": {}
+    "C:\\Users\\user\\Desktop\\POO\\LABO_POO\\TareaLabo3\\lab03-Sirenoman\\GBS\\GBS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prueba\\Desktop\\POO\\theendofcode\\optativeStrct\\optativeStrct.csproj": {
+    "C:\\Users\\user\\Desktop\\POO\\LABO_POO\\TareaLabo3\\lab03-Sirenoman\\GBS\\GBS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prueba\\Desktop\\POO\\theendofcode\\optativeStrct\\optativeStrct.csproj",
-        "projectName": "optativeStrct",
-        "projectPath": "C:\\Users\\Prueba\\Desktop\\POO\\theendofcode\\optativeStrct\\optativeStrct.csproj",
-        "packagesPath": "C:\\Users\\Prueba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prueba\\Desktop\\POO\\theendofcode\\optativeStrct\\obj\\",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\POO\\LABO_POO\\TareaLabo3\\lab03-Sirenoman\\GBS\\GBS.csproj",
+        "projectName": "GBS",
+        "projectPath": "C:\\Users\\user\\Desktop\\POO\\LABO_POO\\TareaLabo3\\lab03-Sirenoman\\GBS\\GBS.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\POO\\LABO_POO\\TareaLabo3\\lab03-Sirenoman\\GBS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Prueba\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

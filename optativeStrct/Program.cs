@@ -21,7 +21,7 @@ namespace optativeStrct
             birthday.day= ItRealDay(birthday.month);
 
             Date oneDate;
-            Console.WriteLine("Please enter your birthday date (a integer)");
+            Console.WriteLine("Please enter the date now (a integer)");
             Console.Write("Year: ");
             oneDate.year = ItRealYear();
             Console.Write("Month: ");
@@ -53,7 +53,7 @@ namespace optativeStrct
                 }else
                 {
                     Console.WriteLine("error!");
-                    Console.Write("Ingrese un año correcto: ");
+                    Console.Write("Please enter a correct year: ");
                 }
             }
             return y;
@@ -73,7 +73,7 @@ namespace optativeStrct
                 }else
                 {
                     Console.WriteLine("error!");
-                    Console.Write("Ingrese un mes correcto: ");
+                    Console.Write("Please enter a correct month:  ");
                 }
             }
             return m;
@@ -88,24 +88,24 @@ namespace optativeStrct
                 d = Int32.Parse(Console.ReadLine());
                 if( mth == 2)
                 {
-                    if(d > 0 && d < 28)
+                    if(d > 0 && d <= 28)
                         flag = false;
                     else
-                        Console.Write("Error! ingrese un dia correcto: ");
+                        Console.Write("Error! enter a correct day:  ");
                 }
                 else if(mth == 1 || mth == 3 || mth == 5 || mth  == 7 || mth == 8 || mth == 10 || mth == 12)
                 {
                     if(d > 0 && d < 32)
                         flag = false;
                     else
-                        Console.Write("Error! ingrese un dia correcto: ");
+                        Console.Write("Error! enter a correct day:  ");
                 }
                 else if(mth == 4 || mth == 6 || mth == 9 || mth == 11)
                 {
                     if(d > 0 && d < 31)
                         flag = false;
                     else
-                        Console.Write("Error! ingrese un dia correcto: ");
+                        Console.Write("Error! enter a correct day:  ");
                 }
             }
             return d;
